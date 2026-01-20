@@ -1,0 +1,4 @@
+photorealistic, realistic fur, plastic, glossy,
+lego, claymation, anime, flat cartoon,
+hard edges, sharp contrast, horror,
+text, watermark, logo
